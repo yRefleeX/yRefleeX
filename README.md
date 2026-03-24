@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Atualmente, sou estudante de graduação em Ciência da Computação.<br><br>- 🔭 Trabalhando no projeto "Colorímetro de baixo custo"<br>- 📚 Atualmente estudando informática<br>- ⚡ No meu tempo livre, gosto de tocar flauta e jogar videogame!</p>
+<p align="left">Atualmente, sou estudante de graduação em Ciência da Computação pela UNESP.<br><br>- 🔭 Trabalhando no projeto "Colorímetro de baixo custo"<br>- 📚 Atualmente estudando informática<br>- ⚡ No meu tempo livre, gosto de tocar flauta e jogar videogame!</p>
 
 ###
 
