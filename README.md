@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Atualmente, sou estudante de graduação em Ciência da Computação pela UNESP.<br><br>- 🔭 Trabalhando no projeto "Colorímetro de baixo custo"<br>- 📚 Atualmente estudando informática<br>- ⚡ No meu tempo livre, gosto de tocar flauta e jogar videogame!</p>
+<p align="left">Atualmente, sou estudante de graduação em Ciência da Computação pela UNESP.<br><br>🎓 <b>Formação Acadêmica</b><br><b>UNESP</b> | Bacharelado em Ciência da Computação (2026 - Presente) 🏛️<br><b>IFSP</b> | Técnico em Informática Integrado (2022 - 2025) 📜<br><br>- 🔭 Trabalhando no projeto "Colorímetro de baixo custo"<br>- 📚 Atualmente estudando informática<br>- ⚡ No meu tempo livre, gosto de tocar flauta e jogar videogame!</p>
 
 ###
 
